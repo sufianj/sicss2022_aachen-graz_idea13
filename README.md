@@ -29,6 +29,8 @@ tweet_processing.ipynb uses pretrained classifiers to annotate the collected twe
 
 MergedDataByYear.ipynb combines the results from classified tweets and ANES data
 
+The Anes_* ipynb notebooks contain some analysis of the corresponding year's ANES data.
+
 ## The data
 According to Twitter's policy, we are not allowed to publish tweets. 
 
