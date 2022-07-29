@@ -1,6 +1,13 @@
 # SICSS 2022_aachen-graz project: Comparison of opinions expressed in Twitter with ANES aggregated data 
 
 
+## Contributors: 
+[[Evgeniya Korotchenko](https://www.linkedin.com/in/evgenia-korotchenko-12786b1b/)],
+[[Federico Zimmerman](https://fedezimmer.github.io/)],
+[[Shufan Jiang](https://scholar.google.fr/citations?user=4spgiPMAAAAJ&hl=en)],
+[[Sudhang Shankar](https://www.linkedin.com/in/sudhang-shankar-b16ba129/)]
+
+
 ## Description: 
 The American National Election Studies (ANES) are national representative surveys of American eligible voters that have been conducted before and after every presidential election since 1948. The focus of the survey includes voter perceptions of the major political parties, the candidates, national and international issues. 
 
