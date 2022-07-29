@@ -1,4 +1,5 @@
-# sicss2022_aachen-graz_idea13
+# SICSS 2022_aachen-graz project: Comparison of opinions expressed in Twitter with ANES aggregated data 
+
 
 ## Description: 
 The American National Election Studies (ANES) are national representative surveys of American eligible voters that have been conducted before and after every presidential election since 1948. The focus of the survey includes voter perceptions of the major political parties, the candidates, national and international issues. 
@@ -10,7 +11,10 @@ As seen in ANES data, negative feelings towards the opposite party are increasin
 
 Just before every American election there is an important and controversial event that captures media attention (aka “October Surprise”). How do these events impact Twitter? Are there more tweets related to the election? Are there more negative tweets? Do the negative tweets affect both candidates or only the one involved in the scandal?
 
-## the notebooks
+## The PDF file: a detailed presentation of this project
+
+
+## The notebooks
 
 download_sampled_tweets.ipynb pulls tweets and saves it to a local MongoDB, then clean emojis @user and URL in the text contents, and export the tweets to .CSV
 
@@ -18,9 +22,9 @@ tweet_processing.ipynb uses pretrained classifiers to annotate the collected twe
 
 MergedDataByYear.ipynb combines the results from classified tweets and ANES data
 
-## the data
+## The data
 According to Twitter's policy, we are not allowed to publish tweets. 
 
-Thus we share the classified results for those who want to run MergedDataByYear.ipynb with ANES data.
+Thus we share the classifications results in data/*_twts_year_classified_senti+poli.csv for those who want to run MergedDataByYear.ipynb with ANES data. 
 
-The ANES could be downloaded from https://electionstudies.org/data-center/ 
+The ANES data could be downloaded from https://electionstudies.org/data-center/ 
