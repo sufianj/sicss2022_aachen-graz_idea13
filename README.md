@@ -25,6 +25,6 @@ MergedDataByYear.ipynb combines the results from classified tweets and ANES data
 ## The data
 According to Twitter's policy, we are not allowed to publish tweets. 
 
-Thus we share the classifications results in data/*_twts_year_classified_senti+poli.csv for those who want to run MergedDataByYear.ipynb with ANES data. 
+Thus we remove the text column and share the classifications results in data/name_twts_year_classified_senti+poli.csv for those who want to run MergedDataByYear.ipynb with ANES data. TThe original tweets can be found with tweet_id. 
 
 The ANES data could be downloaded from https://electionstudies.org/data-center/ 
