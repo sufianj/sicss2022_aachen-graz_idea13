@@ -36,6 +36,6 @@ The Anes_* ipynb notebooks contain some analysis of the corresponding year's ANE
 ## The data
 According to Twitter's policy, we are not allowed to publish tweets. 
 
-Thus we remove the text column and share the classifications results in data/name_twts_year_classified_senti+poli.csv for those who want to run MergedDataByYear.ipynb with ANES data. TThe original tweets can be found with tweet_id. 
+Thus we remove the text column and share the classifications results in data/name_twts_year_classified_senti+poli.csv for those who want to run MergedDataByYear.ipynb with ANES data. The original tweets can be found with tweet_id. 
 
 The ANES data could be downloaded from https://electionstudies.org/data-center/ 
