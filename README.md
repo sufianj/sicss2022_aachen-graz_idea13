@@ -23,13 +23,15 @@ Just before every American election there is an important and controversial even
 
 ## The notebooks
 
-download_sampled_tweets.ipynb pulls tweets and saves it to a local MongoDB, then clean emojis @user and URL in the text contents, and export the tweets to .CSV
+download_sampled_tweets.ipynb notebooks pulls tweets and saves it to a local MongoDB, then clean emojis @user and URL in the text contents, and export the tweets to .CSV
 
-tweet_processing.ipynb uses pretrained classifiers to annotate the collected tweets, and calcultes the daily average sentiment of the october surprises. We highly recommend to run it with GPU.
+The sentiment_analysis+vz_* .csv notebooks uses pretrained classifiers to annotate the collected tweets, and calcultes the daily average sentiment of the october surprises. We highly recommend to run it with GPU.  We apply the same code to collected tweets in 2008, 2012, 2016 (whole election period) and 2020.
 
-MergedDataByYear.ipynb combines the results from classified tweets and ANES data
+MergedDataByYear.ipynb notebooks combines the results from classified tweets and ANES data
 
 The Anes_* ipynb notebooks contain some analysis of the corresponding year's ANES data.
+
+
 
 ## The data
 According to Twitter's policy, we are not allowed to publish tweets. 
