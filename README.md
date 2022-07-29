@@ -1,4 +1,4 @@
-# SICSS 2022_aachen-graz project: Comparison of opinions expressed in Twitter with ANES aggregated data 
+# Comparison of opinions expressed in Twitter with ANES aggregated data 
 
 
 ## Contributors: 
